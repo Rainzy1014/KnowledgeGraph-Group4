@@ -46,4 +46,3 @@ chatbot_graph.py：问答程序脚本
         王小四: 000551 创元科技的实际控制人是：苏州市人民政府(地方国资委)
         
 
-# KnowledgeGraph-Group4
