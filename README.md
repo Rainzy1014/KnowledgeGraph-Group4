@@ -24,7 +24,7 @@ build_stockgraph.py：知识图谱构建    　　
 
 # 1.2 金融领域知识图谱规模
 1.2.1 neo4j图数据库存储规模
-![image](https://github.com/rainzy09/KnowledgeGraph-Group4/img/graph_summary.png)
+![image](https://github.com/rainzy09/KnowledgeGraph-Group4/blob/master/img/graph_summary.png)
 
 
 
