@@ -34,8 +34,8 @@ build_stockgraph.py：知识图谱构建    　　
 
 # 2.1 程序功能
 question_classifier.py：问句类型分类
-question_parser.py：问句解析脚本
-chatbot_graph.py：问答程序脚本
+question_parser.py：问句解析
+chatbot_graph.py：问答程序
 
 
 
